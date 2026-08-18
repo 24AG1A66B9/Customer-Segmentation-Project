@@ -33,7 +33,8 @@ cd customer-segmentation-project
 pip install -r requirements.txt
 streamlit run app.py
 
+# Customer Segmentation Project
+
 ## 🚀 Live Demo
 
-[![Open App](https://img.shields.io/badge/🚀%20Open%20Live%20App-Streamlit-red?style=for-the-badge\&logo=streamlit)](https://customer-segmentation-project-e6c9pbp6dyrtck3ge7jwno.streamlit.app/)
-
+[![Open App](https://img.shields.io/badge/🚀%20Open%20Live%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://customer-segmentation-project-e6c9pbp6dyrtck3ge7jwno.streamlit.app/)
